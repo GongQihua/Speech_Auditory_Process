@@ -1,0 +1,12 @@
+Speaker Identification
+
+Amin Koohi(AminKoohi@yahoo.com OR AminSohrevardi@yahoo.com )
+ 
+Example 1 :
+        >> code = train('train\', 8); %(Training stage)
+        >> test('test\', 8, code); %(Test)
+
+
+Example 2 :
+        >>code = train('amintrain\', 3); %(Training stage)
+        >>test('amintest\', 3, code); %(Test)
